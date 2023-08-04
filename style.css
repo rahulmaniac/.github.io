@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+.subtitle {
+  font-size: 18px;
+}
+
+ul.contact-info {
+  list-style: none;
+  padding: 0;
+}
+
+ul.contact-info li {
+  margin-bottom: 5px;
+}
+
+.about p,
+.skills ul,
+.experience ul,
+.education div,
+.projects div,
+.extracurricular p {
+  margin-bottom: 20px;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.job h3 {
+  margin-bottom: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+/* Add any additional styling and media queries as needed */
